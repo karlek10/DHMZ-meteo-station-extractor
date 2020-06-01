@@ -5,3 +5,5 @@ All required examples, how to run the script are provided inside the script.
 The script has been written in Spyder - Python 3.7.7.
 
 First opening the file in an editor/IDE is suggested.
+
+A 'data' folder needs to be created (same directore where the script is placed).
